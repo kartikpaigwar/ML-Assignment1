@@ -15,6 +15,6 @@ GCP marker are highlighted by Blue rectangle and GCP is located by Red point in 
 
 Results are located in folder CV-Assignment-Output
 
-Detailed Appproach has been mentioned in the PDF document in this repository. For full implementation of this pipeline please review my GCP_Detection Repository.
+Detailed Appproach has been explained in the PDF document atttached in this repository. For full implementation of this pipeline please review my GCP_Detection Repository.
 
 
