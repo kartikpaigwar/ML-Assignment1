@@ -13,6 +13,6 @@ python main.py
 
 GCP marker are highlighted by Blue rectangle and GCP is located by Red point in the image.
 
-Results are located in folder CV-Assignment-Dataset-Output
+Results are located in folder CV-Assignment-Output
 
 
