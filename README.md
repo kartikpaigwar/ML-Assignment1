@@ -8,8 +8,11 @@ When and Why Are GCPs Important?
 
 When used correctly, ground control points greatly improve the global accuracy of your drone map. That is to say, they help ensure that the latitude and longitude of any point on your map corresponds accurately with actual GPS coordinates. This is important in situations where precision mapping and true global accuracy are needed. As we mentioned above, surveying companies generally use GCPs, because a high level of global accuracy is important in most of the work that they do. Virtual design and construction is another sector that often requires this level of precision drone mapping.
 
-
-
 To Run:
 python main.py
+
+GCP marker are highlighted by Blue rectangle and GCP is located by Red point in the image.
+
+Results are located in folder CV-Assignment-Dataset-Output
+
 
